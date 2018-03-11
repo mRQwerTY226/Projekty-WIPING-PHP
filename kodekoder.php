@@ -1,4 +1,10 @@
 <?php
+/* 
+Zadanie WIPING51
+Wykonał: Marek Zydor
+
+*/
+
 $kczyd = readline("Kodowanie czy dekodowanie: ");
 $napis = readline("Znaki: ");
 $walidacja = true;
