@@ -1,4 +1,8 @@
 <?php
+/*
+Zadanie WIPING52 - Rysowanka
+Wykonał: Marek Zydor kl. 2TIW
+*/
 $ltestow = readline("Liczba testów: ");
 $wynik = [];
 for ($t=0; $t < $ltestow; $t++) { 
